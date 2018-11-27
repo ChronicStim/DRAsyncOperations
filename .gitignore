@@ -48,3 +48,4 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+xcshareddata/
